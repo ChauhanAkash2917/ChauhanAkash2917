@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 👋 Hi! I'm Chauhan Akash, a result-oriented software engineer passionate about innovation. <br>   I hold a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving and machine learning.<br><br>💻 Proficient in , JavaScript, React.js<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack<br>📫 Reach me on - chauhanakash2917@gmail.com
 
